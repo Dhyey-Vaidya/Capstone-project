@@ -1,0 +1,5 @@
+year,crop,actual_production,predicted_production,record_type
+2017,Rice,11817929649.2,5602985512.083862,test_prediction
+2018,Rice,11868995807.6,5885115795.166138,test_prediction
+2019,Rice,13463149292.0,6167246078.248535,test_prediction
+2020,Rice,,9621418650.363403,next_year_forecast
